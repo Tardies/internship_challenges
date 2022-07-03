@@ -1,0 +1,5 @@
+Python:
+	command prompt: pip install requests
+	command prompt: pip install tabulate
+Jupyter:
+	run: Jupyter Lab.exe
